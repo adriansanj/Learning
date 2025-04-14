@@ -4,7 +4,8 @@ This folder contains tasks for a Machine Learning course with python including t
 
 ### Classification
 
-Template notebook: [iris_species_classification.ipynb](iris_species_classification.ipynb)
+- Template notebook: [iris_species_classification.ipynb](iris_species_classification.ipynb)
+- Task notebook: [salary_classification.ipynb](salary_classification.ipynb)
 
 ### Regression
 

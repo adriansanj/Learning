@@ -13,4 +13,6 @@ This folder contains tasks for a Machine Learning course with python including t
 
 ### Clustering 
 
+- Task notebook: [iris_clustering.ipynb](iris_clustering.ipynb)
+
 ### Association rules

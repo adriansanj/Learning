@@ -17,4 +17,5 @@ This folder contains tasks for a Machine Learning course with python including t
 
 ### Association rules
 
-- Task notebook: [transactions_association_apriori.ipynb](transactions_association_apriori.ipynb)
+- Template notebook: [association_template_retail.ipynb](association_template_retail.ipynb)
+- Task notebook: [pharmaceutic_association_apriori.ipynb](pharmaceutic_association_apriori.ipynb)

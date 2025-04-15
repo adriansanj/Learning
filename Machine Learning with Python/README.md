@@ -16,3 +16,5 @@ This folder contains tasks for a Machine Learning course with python including t
 - Task notebook: [iris_clustering.ipynb](iris_clustering.ipynb)
 
 ### Association rules
+
+- Task notebook: [transactions_association_apriori.ipynb](transactions_association_apriori.ipynb)

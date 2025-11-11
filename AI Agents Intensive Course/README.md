@@ -13,4 +13,4 @@ This repository includes notebooks for daily tasks, concise summaries of key whi
 - Summary:
 - Code:
   - From Prompt to Action: [ai-agents-intensive-d1-from-prompt-to-action.ipynb](ai-agents-intensive-d1-from-prompt-to-action.ipynb)
-  - Agent Architectures: [ai-agents-intensive-d1-from-prompt-to-action.ipynb](ai-agents-intensive-d1-from-prompt-to-action.ipynb)
+  - Agent Architectures: [ai-agents-intensive-d1-agent-architectures.ipynb](ai-agents-intensive-d1-agent-architectures.ipynb)

@@ -14,3 +14,10 @@ This repository includes notebooks for daily tasks, concise summaries of key whi
 - Code:
   - From Prompt to Action: [ai-agents-intensive-d1-from-prompt-to-action.ipynb](ai-agents-intensive-d1-from-prompt-to-action.ipynb)
   - Agent Architectures: [ai-agents-intensive-d1-agent-architectures.ipynb](ai-agents-intensive-d1-agent-architectures.ipynb)
+
+### Day 2: Agent Tools & Interoperability with Model Context Protocol (MCP)
+- White Paper: [Agent Tools & Interoperability with MCP](https://www.kaggle.com/whitepaper-agent-tools-and-interoperability-with-mcp)
+- Summary:
+- Code:
+  - Agent Tools: [ai-agents-intensive-d2-agent-tools.ipynb](ai-agents-intensive-d2-agent-tools.ipynb)
+  - Agent Tool Patterns and Best Practices: [ai-agents-intensive-d2-tools-best-practices.ipynb](ai-agents-intensive-d2-tools-best-practices.ipynb)

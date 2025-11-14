@@ -21,3 +21,10 @@ This repository includes notebooks for daily tasks, concise summaries of key whi
 - Code:
   - Agent Tools: [ai-agents-intensive-d2-agent-tools.ipynb](ai-agents-intensive-d2-agent-tools.ipynb)
   - Agent Tool Patterns and Best Practices: [ai-agents-intensive-d2-tools-best-practices.ipynb](ai-agents-intensive-d2-tools-best-practices.ipynb)
+ 
+### Day 3: Context Engineering: Sessions & Memory
+- White Paper: [Context Engineering: Sessions, Memory](https://www.kaggle.com/whitepaper-context-engineering-sessions-and-memory)
+- Summary:
+- Code:
+  - Agent Sessions: [ai-agents-intensive-d3-agent-sessions.ipynb](ai-agents-intensive-d3-agent-sessions.ipynb)
+  - Agent Memorys: [ai-agents-intensive-d3-agent-memory.ipynb](ai-agents-intensive-d3-agent-memory.ipynb)

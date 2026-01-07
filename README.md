@@ -3,4 +3,5 @@
 
 ## Index
 - [Machine Learning with Python](https://github.com/adriansanj/Learning/tree/main#:~:text=Machine%20Learning%20with%20Python)
-- [5-Day AI Agents Intensive Course (Google & Kaggle)](https://github.com/adriansanj/Learning/tree/main/AI%20Agents%20Intensive%20Course)
+- [5-Day AI Agents Intensive Course (Google & Kaggle)](https://github.com/adriansanj/Learning/tree/main/AI%20Agents%20Intensive%20Course) (_Incomplete_)
+- [LangChain Essentials - Python](https://github.com/adriansanj/Learning/tree/main/Langchain%20Essentials%20Python)
